@@ -1,0 +1,10 @@
+C:\Users\enric\source\repos\formstest\formstest\bin\Debug\formstest.exe.config
+C:\Users\enric\source\repos\formstest\formstest\bin\Debug\formstest.exe
+C:\Users\enric\source\repos\formstest\formstest\bin\Debug\formstest.pdb
+C:\Users\enric\source\repos\formstest\formstest\obj\Debug\formstest.csproj.AssemblyReference.cache
+C:\Users\enric\source\repos\formstest\formstest\obj\Debug\formstest.csproj.SuggestedBindingRedirects.cache
+C:\Users\enric\source\repos\formstest\formstest\obj\Debug\formstest.Properties.Resources.resources
+C:\Users\enric\source\repos\formstest\formstest\obj\Debug\formstest.csproj.GenerateResource.cache
+C:\Users\enric\source\repos\formstest\formstest\obj\Debug\formstest.csproj.CoreCompileInputs.cache
+C:\Users\enric\source\repos\formstest\formstest\obj\Debug\formstest.exe
+C:\Users\enric\source\repos\formstest\formstest\obj\Debug\formstest.pdb
